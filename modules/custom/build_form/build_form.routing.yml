@@ -1,6 +1,0 @@
-create.postmortem.form:
-  path: '/create/postmortem'
-  defaults:
-    _controller: '\Drupal\build_form\Controller\createPostmortemForm'
-  requirements:
-    _permission: 'access content'
